@@ -1,3 +1,7 @@
+* [template](http://graybrooks.com/presentation/template/?transition=none#/)
+* [Government APIs - 2014](http://graybrooks.com/presentation/government_apis-2014/?transition=none#/)
+
+
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
