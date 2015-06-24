@@ -7,6 +7,7 @@
 * Now 12,000 workers, $26B in budget
 * 1994 - WhiteHouse.gov launched 
 * 2002 - [Egov Act](https://en.wikipedia.org/wiki/E-Government_Act_of_2002)
+  * Creates Office of E-Government & Information Technology in OMB
 
 
 
