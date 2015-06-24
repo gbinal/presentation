@@ -67,6 +67,6 @@
 
 
 ## Links 
-* [Visualization of OCSIT/18F with OKRs](https://18f.slack.com/files/gray/F06KVF031/ocsit-18f-breakdown.jpg)
+* [Visualization of OCSIT/18F with OKRs](https://18f.slack.com/files/gray/F06KVF031/ocsit-18f-breakdown.jpg) [*](https://cloud.githubusercontent.com/assets/633088/8336536/46c88c86-1a73-11e5-85b2-5098c08f0151.jpg)
 * [OCSIT 2014 Annual Report](http://gsa.gov/portal/mediaId/206199/fileName/FY14_OCSIT_Annual_Report_Final.action)
 * [OCSIT Homepage](http://gsa.gov/portal/category/25729)
