@@ -11,10 +11,11 @@
 
 
 
-## Office of Citizen Services
+## Citizen Services
 
 * [Federal Citizen Information Center](https://en.wikipedia.org/wiki/Federal_Citizen_Information_Center)
  * Founded in 1970
+ * Was in OCM until merged with OIT
  * [usa.gov]()
  * GobiernoUSA.gov
  * kids.gov 
@@ -29,6 +30,7 @@
 
 
 ## Office of Innovative Technology 
+* formed early-mid 2000s, after egov act?  
 
 ### Education
 * [DigitalGov.gov](http://www.digitalgov.gov/) (Formerly HowTo.gov)
@@ -77,6 +79,9 @@ https://en.wikipedia.org/wiki/Federal_Web_Managers_Council
 https://en.wikipedia.org/wiki/GobiernoUSA.gov  
 http://www.gsa.gov/portal/category/101011  
 http://gsa.gov/portal/mediaId/206199/fileName/FY14_OCSIT_Annual_Report_Final.action  
+http://www.gsa.gov/portal/directive/d0/content/521270
+http://www.gsa.gov/portal/directive/d0/content/522566
+http://webcache.googleusercontent.com/search?q=cache:Na5-_dPVfGsJ:www.gsa.gov/portal/content/154165+&cd=1&hl=en&ct=clnk&gl=us
 
 
 
