@@ -82,7 +82,10 @@ http://gsa.gov/portal/mediaId/206199/fileName/FY14_OCSIT_Annual_Report_Final.act
 http://www.gsa.gov/portal/directive/d0/content/521270
 http://www.gsa.gov/portal/directive/d0/content/522566
 http://webcache.googleusercontent.com/search?q=cache:Na5-_dPVfGsJ:www.gsa.gov/portal/content/154165+&cd=1&hl=en&ct=clnk&gl=us
+https://www.google.com/webhp?sourceid=chrome-instant&rlz=1CATAAB_enUS644US644&ion=1&espv=2&ie=UTF-8#q=+Federal+Web+Managers+Council+site:digitalgov.gov
+https://www.google.com/search?q=Federal+Web+Managers+Council
 
+* "Originally called the Web Content Managers Working Group, we were established (per the EGov Act of 2002) by the Interagency Committee on Government Information (ICGI) in January 2004 to recommend policies and guidelines for all federal public websites."
 
 
 
