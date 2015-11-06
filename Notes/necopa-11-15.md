@@ -1,5 +1,8 @@
 
 
+
+### Intro 
+
 * Where I'm coming from.
 * Why APIs?  
   * [Weather.gov](http://www.weather.gov/) vs. [weather apps](https://play.google.com/store/search?q=weather&c=apps&hl=en)
@@ -7,7 +10,9 @@
   * [State Alerts API](http://www.state.gov/developer/)
   * Passport renewal
   * IRS Tax Filing
-  
+  * Parallels with privitization.  
+
+
 * Here's what you should take away:  
   * Going forward, everything you build 
   * You will want an API for everything
@@ -30,4 +35,5 @@
   * [Agency Checklist](https://pages.18f.gov/API-All-the-X/pages/agency_checklist/)
   * [Agency Maturity Model](https://pages.18f.gov/API-All-the-X/pages/agency_maturity_model/)
   * [Sample Contract Requirements](https://pages.18f.gov/API-All-the-X/pages/sample_api_requirements/)
+  * [Developer Terms of Service](https://github.com/GSA/API-Resources/tree/master/developer_tos#readme)
   * [API Usability Testing](https://pages.18f.gov/API-Usability-Testing/)
