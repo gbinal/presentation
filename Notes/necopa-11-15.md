@@ -2,7 +2,7 @@
 
 * Where I'm coming from.
 * Why APIs?  
-  * Weather 
+  * [Weather.gov](http://www.weather.gov/) vs. [weather apps](https://play.google.com/store/search?q=weather&c=apps&hl=en)
 * Read APIs
   * [State Alerts API](http://www.state.gov/developer/)
   * Passport renewal
