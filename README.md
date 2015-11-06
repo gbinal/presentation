@@ -1,5 +1,6 @@
 * [template](http://graybrooks.com/presentation/template/?transition=none#/)
 * [Government APIs - 2014](http://graybrooks.com/presentation/government_apis-2014/?transition=none#/)
+* [NECoPA Nov. 2015](https://github.com/gbinal/presentation/blob/gh-pages/Notes/necopa-11-15.md)
 
 
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
