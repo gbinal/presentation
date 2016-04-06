@@ -2,6 +2,7 @@
 
 * [Me](http://graybrooks.com/)
 * [18F](https://18f.gsa.gov/) 
+  * [More on how to engage with 18F](https://pages.18f.gov/intake/)
 * Goals
   * Quick refresh on APIs in Government
   * Simple Example of Building an API 
@@ -17,7 +18,6 @@
 * Write APIs 
   * Passport renewal
   * IRS Tax Filing
-
 * Takeaways:  
   * Current projects and all future projects should be API-first. 
   * Doing this will save you money and make your users happier and more productive, which will lead to people using your service more.  
@@ -30,6 +30,11 @@
 ### Consuming an API
 * [Site](http://graybrooks.com/api-mashup/)
 * [Code](https://github.com/gbinal/api-mashup)
+
+### Open Source
+* [Open Source API Documentation](https://pages.18f.gov/API-All-the-X/pages/open_source_documentation/)
+* [Partial List of Websites Built/Hosted This Way](http://gsa.github.io/Open-Data-Collaboration-Sandbox/website_examples/)
+* [More Things You Can Do With GitHub](https://github.com/18F/github-in-government#readme)
 
 ### Resources
 * [US Government APIs - Listserve](https://groups.google.com/forum/?nomobile=true#!forum/us-government-apis)
